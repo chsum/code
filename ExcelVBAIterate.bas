@@ -1,5 +1,5 @@
 Sub ExcelIterate()
-    'In response to https://twitter.com/yatesamantha/status/1296822923358085127?s=20
+"    'In response to a question stating "Is there an Excel formula that will extract or highlight outstanding values in a column, where values within that column (when added together) equal a certain value?"
     Dim c As Range
     invoiceAmount = 0
     paymentAmount = 0
